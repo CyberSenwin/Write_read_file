@@ -1,0 +1,2 @@
+Reading and writing file to input file folder.
+Checking the file cause is been along time i did this in python. 
